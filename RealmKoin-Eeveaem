@@ -1,0 +1,33 @@
+RealmKoin Whitepaper V 1.0
+
+ RealmKoin:
+  - Name: RealmKoin
+  - Type: Ethereum Token
+  - Usage: Social / Environmental Operations Within Eeveaem & Skryptek Plugins.
+  - Details:
+     'RealmKoin Is A Ethereum Token Designed To Bring Economic Value To Any Digital Platform.'
+     Circulation Cap: 14,000,000
+     Symbol: (RK)
+     Default Platform: Eeveaem
+     
+ Eeveaem:
+   - Name: Eeveaem (E.v.M)
+   - Type: Server / Python Environment / Interactive Fiction.
+   - Usage: RealmKoin Wallet / Interactive Ethereum Node / Social, Developmental, & Recreational User Interaction.
+   - Details:
+     'Eeveaem, The Realm Of Koinage. Home To Vivian. Creation Of Skryptek The Seekers Of True Intelligence.' ~ Skrypt
+     Language: Python
+     Supported Currency List: Ethereum (All Ethereum Tokens / Contracts Available)
+     Extra Details:
+       Eeveaem is a interactive fiction written in python3. Users may explore the world as 'Wandering Wallets' which are
+       personal Ethereum addresses that contain custom information including but not limited to items, statistics, economic value.
+       Users may simply use any terminal to Telnet to our personal interactive server written in Python (Eeveaem). Eeveaem is custom
+       built via Web3.py and VenomWeb3.py and a open hosted Parity node giving complete updated interaction to the Ethereum Virtual Machine.
+       Users may interact not only with the E.V.M but also with each other in the manner of communication, transactions, contract interaction
+       and in environmental events such as usage of the public arena or open contests.
+        Eeveaem is a Interactive Fiction (IF) consisting of 4 basic rooms. The Common Room is where all users start where they will be
+        first prompted to create a username and password before being able to join the rest of the world of Koinage.
+        
+           - More To Come This Is A Test Whitepaper Please Feel Free To Email RealmKoin@Gmail.com With Any Advice Or Concerns.
+               - RealmKoin Team.
+     
