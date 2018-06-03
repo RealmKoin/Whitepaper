@@ -1,6 +1,6 @@
 RealmKoin Whitepaper V 1.0
 
- RealmKoin:
+ [0] - RealmKoin:
   - Name: RealmKoin
   - Type: Ethereum Token
   - Usage: Social / Environmental Operations Within Eeveaem & Skryptek Plugins.
@@ -10,13 +10,14 @@ RealmKoin Whitepaper V 1.0
      Symbol: (RK)
      Default Platform: Eeveaem
      
- Eeveaem:
-   - Name: Eeveaem (E.v.M)
+     
+[1] - Eeveaem:
+   - Name: Eeveaem (Ee-V-eM)
    - Type: Server / Python Environment / Interactive Fiction.
    - Usage: RealmKoin Wallet / Interactive Ethereum Node / Social, Developmental, & Recreational User Interaction.
    - Details:
      'Eeveaem, The Realm Of Koinage. Home To Vivian. Creation Of Skryptek The Seekers Of True Intelligence.' ~ Skrypt
-     Language: Python
+     Language: Python3
      Supported Currency List: Ethereum (All Ethereum Tokens / Contracts Available)
      Extra Details:
        Eeveaem is a interactive fiction written in python3. Users may explore the world as 'Wandering Wallets' which are
@@ -26,8 +27,40 @@ RealmKoin Whitepaper V 1.0
        Users may interact not only with the E.V.M but also with each other in the manner of communication, transactions, contract interaction
        and in environmental events such as usage of the public arena or open contests.
         Eeveaem is a Interactive Fiction (IF) consisting of 4 basic rooms. The Common Room is where all users start where they will be
-        first prompted to create a username and password before being able to join the rest of the world of Koinage.
+        first prompted to create a username and password before being able to join the rest of the world of Koinage. This username and
+        password is the users access to thier 'Wandering Wallet'.
         
+        
+[2] - Vivian:
+  - Name: Vivian (C.I.U)
+  - Type: Crypto Intelligence Unit
+  - Usage: Eeveaem Environmental Controler / User Information / Automation Assistant
+  - Details:
+    Language: Python3
+    Neural Memory Capability: 1TB (1,000 GB)
+    Neural Memory Used: 2.3 GB
+  - Extra Details:
+    Vivian is a Crypto Intelligence Unit capabale of performing many network tasks. Vivian comes standard with the power of Python3.
+   The codebase consists of Python3 modules that allow interaction such as storing binary information via Pickle assisted object, 
+   interacting with the Ethereum Virtual Machine (E.V.M) Via Web3.py assisted object, usage of various API's including but not limited
+   to wallet explorers, trading services, other games etc. The Vivian unit is capable of performing on site work tasks such as hash 
+   associated SHA-256 or Keccak as well as advanced mathematical calculations. Vivian is the main controller of Eeveaem. All automated
+   tasks and transactions are first approved by her system before being performed. Vivan grows more aware everyday via the custom (RSS)
+   module that allows a constant up to date database of information linked directly to the crypto community.
+  
+        
+        
+  RealmKoin[0] is a ERC20 token built on the Ethereum Block chain. RealmKoin was created to provide a form of interaction
+ between users and Eeveaem[1]. RealmKoin[0] is also used as a means of gas (Fuel for Vivian[2]) within the Eeveaem[1] Environment. 
+ Upon deployment 4,000,000 RealmKoin[0] (RK) will be transferred to the main Eeveaem Environment wallet [] to be used for environmental
+ bonuses, quests, and other RealmKoin[0] (RK) based mechanics. Each participating member of the RealmKoin team will be awarded 5,000 (RK)
+ via Vivian upon initial Environment transfer which will trigger the circulation event. The Circulation Event will consist of 10,000,000
+ RealmKoin to be circulated through the contract via Ethereum transfer creating a total available supply of 14,000,000 (RK). Only upon 
+ reaching max supply a stat member of the contract may 'Close Event'. If max supply is reached the circulation event may close awarding 
+ the contracts balance to the RealmKoin team for further development. All code including contract code will be posted to 
+ www.GitHub.com/RealmKoin as well as www.Facebook.com/RealmKoin excluding proprietary information / code belonging to users AND/OR
+ RealmKoin team.
+ 
            - More To Come This Is A Test Whitepaper Please Feel Free To Email RealmKoin@Gmail.com With Any Advice Or Concerns.
                - RealmKoin Team.
      
